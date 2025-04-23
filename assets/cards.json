@@ -1,0 +1,62 @@
+[
+    {
+        "id": "0",
+        "name": "Шут",
+        "description": "Начало нового пути, спонтанность, доверие к жизни и интуиции.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg"
+    },
+    {
+        "id": "1",
+        "name": "Маг",
+        "description": "Сила воли, манифестация, использование ресурсов для достижения целей.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Magician_Tarot_Card.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Верховная Жрица",
+        "description": "Интуиция, тайные знания, внутреннее понимание и мудрость.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Императрица",
+        "description": "Плодородие, изобилие, забота и материнская энергия.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/RWS_Tarot_03_Empress.jpg/800px-RWS_Tarot_03_Empress.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Император",
+        "description": "Стабильность, власть, структура и контроль.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/RWS_Tarot_04_Emperor.jpg/800px-RWS_Tarot_04_Emperor.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Иерофант",
+        "description": "Традиции, духовное руководство, обучение и моральные ценности.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Влюблённые",
+        "description": "Любовь, выбор, гармония и единство.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/RWS_Tarot_06_Lovers.jpg/250px-RWS_Tarot_06_Lovers.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Колесница",
+        "description": "Победа, решимость, контроль и движение вперёд.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Сила",
+        "description": "Мужество, внутреннее спокойствие, сострадание и контроль над страстями.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RWS_Tarot_08_Strength.jpg/250px-RWS_Tarot_08_Strength.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Отшельник",
+        "description": "Поиск истины, уединение, мудрость и внутреннее руководство.",
+        "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RWS_Tarot_09_Hermit.jpg/250px-RWS_Tarot_09_Hermit.jpg"
+    }
+]
