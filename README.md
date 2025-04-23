@@ -28,9 +28,12 @@ npm run dev
 Все карты хранятся в JSON-файле `assets/cards.json`. Каждая карта представлена объектом следующего вида:
 
 {   
+
+ 	"id": 0,
 	"name": "Башня",   
 	"description": "Резкие перемены, разрушение старого, внезапные события.",   
-	"image": "/images/the-tower.jpg"
+	"picture": "/images/the-tower.jpg"
+ 
 }
 
 
